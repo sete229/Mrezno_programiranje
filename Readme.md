@@ -1,1 +1,2 @@
-# Git Lab
+# Mrezno_programiranje
+this repository i will use for collegium Mrezno Programiranje
